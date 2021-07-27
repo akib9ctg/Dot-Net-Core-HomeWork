@@ -113,3 +113,4 @@ G:\DotNetCoreLearning\FirstDotNetCoreWebProject\FirstDotNetCoreWebProject\obj\De
 G:\DotNetCoreLearning\FirstDotNetCoreWebProject\FirstDotNetCoreWebProject\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
 G:\DotNetCoreLearning\FirstDotNetCoreWebProject\FirstDotNetCoreWebProject\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
 G:\DotNetCoreLearning\FirstDotNetCoreWebProject\FirstDotNetCoreWebProject\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+G:\DotNetCoreLearning\FirstDotNetCoreWebProject\FirstDotNetCoreWebProject\bin\Debug\net5.0\libman.json
