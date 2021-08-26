@@ -13,5 +13,7 @@ namespace FirstDotNetCoreWebProject.Model
         public DateTime? DOB { get; set; }
         public string  StudentId { get; set; }
         public string Department { get; set; }
+        public string ImagePath { get; set; }
+        public string NewC { get; set; }
     }
 }

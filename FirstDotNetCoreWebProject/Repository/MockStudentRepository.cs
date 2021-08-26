@@ -1,5 +1,5 @@
-﻿using FirstDotNetCoreWebProject.Interface;
-using FirstDotNetCoreWebProject.Model;
+﻿using FirstDotNetCoreWebProject.Model;
+using FirstDotNetCoreWebProject.Interface;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace FirstDotNetCoreWebProject.Repository
 {
-    public class MockStudentRepository : IMockStudentRepository
+    public class MockStudentRepository : IStudentRepository
     {
         private List<Student> _students;
         public MockStudentRepository()

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace FirstDotNetCoreWebProject.Interface
 {
-    public interface IMockStudentRepository
+    public interface IStudentRepository
     {
         List<Student> GetAllStudents();
         Student GetStudentsById(int id);

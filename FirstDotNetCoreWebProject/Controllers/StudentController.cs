@@ -9,8 +9,8 @@ namespace FirstDotNetCoreWebProject.Controllers
 {
     public class StudentController : Controller
     {
-        private readonly IMockStudentRepository _mockStudentRepository;
-        public StudentController(IMockStudentRepository mockStudentRepository)
+        private readonly IStudentRepository _mockStudentRepository;
+        public StudentController(IStudentRepository mockStudentRepository)
         {
             _mockStudentRepository = mockStudentRepository;
         }
